@@ -100,7 +100,7 @@ class _FoodScreenState extends State<FoodScreen> {
                             ),
                             const SizedBox(height: 15),
                             const Text(
-                                "Preheat grill on high. \nLine a large heavy-rimmed baking tray with foil and toss the chillies and garlic with 1 tbs oil.\n Cook under the grill, turning the chillies and garlic halfway through cooking, \nfor 15 mins or until the chillies are charred all over and garlic skins are blackened. Transfer to a bowl.\n Cover and set aside for 10 mins to cool.",
+                                "Preheat grill on high. \nLine a large heavy-rimmed baking tray with foil and toss the chillies and garlic with 1 tbs oil.\n Cook under the grill, turning the chillies and garlic halfway through cooking, \nfor 15 mins or until the chillies are charred all over and garlic skins are blackened. Transfer to a bowl.",
                                 style: TextStyle(fontSize: 18)),
                             const SizedBox(
                               height: 15,
